@@ -12,7 +12,7 @@ on:
     paths:
       - main.py
       
-  env:
+  G_T:
      GITHUB_NAME: sadpolarbear
      GITHUB_EMAIL: 3080733673@qq.com
 
